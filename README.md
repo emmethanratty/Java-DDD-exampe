@@ -1,4 +1,4 @@
-# Delta Decisioning
+# Java DDD Example
 
 Build with sbt.
 
