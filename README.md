@@ -7,4 +7,4 @@ Build with sbt.
 sbt run
 # run tests
 sbt test
-```
+```te
